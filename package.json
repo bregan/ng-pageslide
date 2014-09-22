@@ -1,7 +1,7 @@
 {
   "name": "angular-pageslide-directive",
   "version": "0.1.8",
-  "main": "dist/smart-table.debug.js",
+  "main": "dist/angular-pageslide-directive.js",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-concat": "~0.3",
